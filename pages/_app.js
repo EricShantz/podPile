@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from 'react';
 import Layout from '../components/Layout';
-import { AppContext } from '../Contexts/AppContext';
 // import { ThemeProvider } from 'theme-ui';
 import '../styles/globals.css';
 import {AppProvider} from '../Contexts/AppContext'
